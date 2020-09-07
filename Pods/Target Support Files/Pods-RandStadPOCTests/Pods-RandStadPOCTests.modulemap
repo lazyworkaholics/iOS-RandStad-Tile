@@ -1,0 +1,6 @@
+framework module Pods_RandStadPOCTests {
+  umbrella header "Pods-RandStadPOCTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

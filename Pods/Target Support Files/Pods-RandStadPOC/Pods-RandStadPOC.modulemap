@@ -1,0 +1,6 @@
+framework module Pods_RandStadPOC {
+  umbrella header "Pods-RandStadPOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
